@@ -1,0 +1,1420 @@
+﻿415101  1. MALKAPUR RH				COVISHIELD
+	  RH Malkapur, Kolhapur, Maharashtra, 415101
+
+	2.  MALKAPUR RH 1			COVAXIN
+	  RH Malkapur, Kolhapur, Maharashtra, 415101
+
+	3. MAN PHC				COVISHIELD
+	   Man PHC, Kolhapur, Maharashtra, 415101
+	
+	4.  MAN PHC-1				COVAXIN			
+	  Man PHC, Kolhapur, Maharashtra, 415101
+
+415102
+
+416001 
+	 1.  HASUR DUMALA PHC				COVISHIELD
+	Hasur Dumala, Kolhapur, Maharashtra, 416001
+
+	2. HASUR DUMALA PHC 1				COVAXIN
+	Hasur Dumala, Kolhapur, Maharashtra, 416001
+ 
+	3. M. SHIROLI PHC					COVISHIELD
+	Shiroli Dumala, Kolhapur, Maharashtra, 416001
+
+	4. M. SHIROLI-SC					COVISHIELD
+	Shiroli Dumala, Kolhapur, Maharashtra, 416001
+
+	5. RAJARAMPURI UPHC KMC				COVISHIELD
+	Rajarampuri 9th Lane, Kolhapur, Maharashtra, 416001
+
+	6.SAVITRIBAI PHULE UPHC KMC			COVISHIELD
+	Subhash Road Kolhapur, Kolhapur, Maharashtra, 416001
+
+416002 1. CPR MEDICAL COLLEGE MC				COVISHIELD
+	Bhaushingi Road Dasara Chauk, Kolhapur, Maharashtra, 416002
+
+	2. CPR MEDICAL COLLEGE MC 1			COVAXIN
+	Bhaushingi Road Dasara Chauk, Kolhapur, Maharashtra, 416002
+
+	3. PANCHGANGA HOS NO.4 UHC KMC 1			COVAXIN
+	   Panchganga Kolhapur Corporation, Kolhapur, Maharashtra, 416002
+
+
+  	4. PANCHGANGA HOSP NO.4 UHC KMC			COVISHIELD
+    	Panchganga Kolhapur Corporation, Kolhapur, Maharashtra, 416002
+
+
+	5.SHIROLI PULACHI PHC				COVISHIELD
+	Pshiroli, Kolhapur, Maharashtra, 416002
+
+
+	6. SIDHARTH NAGAR NO.10 UHC KMC			COVISHIELD
+	Shanwar Peth, Kolhapur, Maharashtra, 416002
+416003
+416004
+416005  1. HERLE PHC					COVISHIELD
+	  Herle, Kolhapur, Maharashtra, 416005
+
+	2 .HERLE PHC 1					COVAXIN
+	Herle, Kolhapur, Maharashtra, 416005
+
+	3. HERLE-SC					COVISHIELD
+	Herle, Kolhapur, Maharashtra, 416005
+
+	4. MAHADIK MAL NO.6 UHC KMC			COVISHIELD
+	Mahadik Mal No.6 UHC, Kolhapur, Maharashtra, 416005
+
+	5.SADAR BAZAR NO.9 UHC KMC			COVISHIELD
+	Gaval Galli Sadar Bazar, Kolhapur, Maharashtra, 416005
+
+	6. UCHGAON PHC					COVISHIELD
+	Near Sai Mandir Uchgaon, Kolhapur, Maharashtra, 416005
+
+	7. UCHGAON-SC					COVAXIN
+	Near Sai Mandir Uchgaon, Kolhapur, Maharashtra, 416005
+416006  1. OM SAI ONCOSURGERY HOSPITAL (PAID)		COVISHIELD: ₹250
+	457 10 MAIN ROAD KOLHAPUR, Kolhapur, Maharashtra, 416006
+
+	2. SERVICES HOSPITAL BAVDA 			COVISHIELD
+	Line Bazaar Bavda, Kolhapur, Maharashtra, 416006
+
+	3. SERVICES HOSPITAL BAVDA 1 			COVAXIN
+	Line Bazaar Bavda, Kolhapur, Maharashtra, 416006
+416007  1. MORE MANE NAGAR NO.11 UHC KMC  			COVISHIELD
+	Shivganga Colony, Kolhapur, Maharashtra, 416007
+416008  1. ASTER AADHAR HOSPITAL PAID			COVISHIELD: ₹850
+  	Near Shastri Nagar, Kolhapur, Maharashtra, 416008
+
+	2. GHALWAD PHC					COVISHIELD
+	  Ghalwad, Kolhapur, Maharashtra, 416108
+
+	3. GHALWAD PHC 1					COVAXIN
+	  Ghalwad, Kolhapur, Maharashtra, 416108
+
+	4. GHALWAD-SC					COVISHIELD
+	Ghalwad, Kolhapur, Maharashtra, 416108
+
+
+
+416009  
+416010
+416011
+416012  1. ISOLATION HOSP NO 7 UHC KMC			COVISHIELD
+	Near Hockey Stedium, Kolhapur, Maharashtra, 416012
+
+	2 . PHIRANGAI HOSP NO 2 UHC KMC			COVISHIELD
+	Phirangai Hospital NO 2 UHC, Kolhapur, Maharashtra, 416012
+
+416013
+416014
+416015
+416016
+416017
+416018
+416019
+416020
+416021
+416022
+416023
+416024
+416025
+416026
+416027
+416028
+416029
+416030
+416031
+416032
+416033
+416034
+416035
+416036
+416037
+416038
+416039
+416040
+416041
+416042
+416043
+416044
+416045
+416046
+416047
+416048
+416049
+416050
+416051
+416052
+416053
+416054
+416055
+416056
+416057
+416058
+416059
+416060
+416061
+416062
+416063
+416064
+416065
+416066
+416067
+416068
+416069
+416070
+416071
+416072
+416073
+416074
+416075
+416076
+416077
+416078
+416079
+416080
+416081
+416082
+416083
+416084
+416085
+416086
+416087
+416088
+416089
+416090
+416091
+416092
+416093
+416094
+416095
+416096
+416097
+416098
+416099
+416100
+416101  1.  PARALI NINAI PHC				COVISHIELD
+	  Parali Ninai, Kolhapur, Maharashtra, 415101
+
+	2.  PARALI NINAI PHC 1				COVAXIN
+	   Parali Ninai, Kolhapur, Maharashtra, 416101
+
+416102
+416103  1.  SHIROL RH					COVISHIELD
+	  Rural Hospital Shirol, Kolhapur, Maharashtra, 416103
+
+	2. SHIROL RH ( AGE 18 TO 44)			COVAXIN
+	   Rural Hospital Shirol, Kolhapur, Maharashtra, 416103
+
+	3.  SHIROL RH 1					COVAXIN
+	  Rural Hospital Shirol, Kolhapur, Maharashtra, 416103
+
+416104
+416105  1. KAVATEGULAND PHC				COVISHIELD
+	  Kavateguland, Kolhapur, Maharashtra, 416105
+
+	2. KAVATEGULAND PHC 1				COVAXIN
+	   Kavateguland, Kolhapur, Maharashtra, 416105
+
+	3. KAVATEGULAND-SC				COVISHIELD
+	   Kavateguland, Kolhapur, Maharashtra, 416105
+
+416106  1.  KURUNDWAD UHC				COVISHIELD
+	  Near Balchandra Theater Kurundwad, Kolhapur, 
+	   Maharashtra, 416106
+
+	2.  KURUNDWAD UHC 1				COVAXIN
+ 	   Near Balchandra Theater Kurundwad, Kolhapur, 
+	   Maharashtra, 416106
+
+416107  1. DATTAWAD RH					COVISHIELD	
+	Dattawad Rural Hospital, Kolhapur,
+	   Maharashtra, 416107
+
+	2. DATTAWAD RH 1					COVAXIN
+	Dattawad Rural Hospital, Kolhapur, 
+	   Maharashtra, 416107
+
+	3.  MANJARE PHC					COVISHIELD
+	   Manjare, Kolhapur, Maharashtra, 416106
+
+	4. MANJARE PHC 1					COVAXIN
+	  Manjare, Kolhapur, Maharashtra, 416106
+
+416108  1. NANDANI-SC					COVISHIELD
+	 Nandani PHC, Kolhapur, Maharashtra, 416108
+
+	2. NURSINH WADI PHC				COVISHIELD
+	   N.Wadi, Kolhapur, Maharashtra, 416108
+
+	3 . NURSINH WADI PHC 1				COVAXIN
+	    N.Wadi, Kolhapur, Maharashtra, 416108
+
+	4. TAKALI PHC					COVISHIELD
+	   Takali, Kolhapur, Maharashtra, 416108
+
+	5.  TAKALI PHC 1					COVAXIN
+	   Takali, Kolhapur, Maharashtra, 416108
+
+	6.  TAKALI-SC					COVISHIELD
+	   Takali, Kolhapur, Maharashtra, 416108
+
+416109  1. ALATE PHC					COVISHIELD
+	Alate, Kolhapur, Maharashtra, 416109
+
+	2. ALATE PHC 1					COVAXIN
+	Alate, Kolhapur, Maharashtra, 416109
+
+	3 . ALATE-SC					COVISHIEL
+	Alate, Kolhapur, Maharashtra, 416109
+
+	4. HATKANGALE RH					COVISHIELD
+	   Rural Hospital Hatkangale, Kolhapur, 
+	  Maharashtra, 416109
+
+	5. HATKANGALE RH (AGE 18 TO 45)			COVISHIELD
+	   Rural Hospital Hatkangale, Kolhapur,
+	    Maharashtra, 416109
+
+	6. HATKANGALE RH 1				COVAXIN
+	   Rural Hospital Hatkangale, Kolhapur, 
+	    Maharashtra, 416109
+
+	7. SAWARDE PHC 1					COVAXIN
+	   Sawarde Primary Health Center, Kolhapur, 
+	    Maharashtra, 416109
+
+	8. SAWARDE PRIMARY HEALTH CENTER			COVISHIELD
+	  Sawarde Primary Health Center, Kolhapur,
+	   Maharashtra, 416109
+
+	9.  SAWARDE-SC		 			COVISHIELD
+	   Sawarde Primary Health Center, Kolhapur,
+	    Maharashtra, 416109
+
+416110
+416111  1. KUMBHOJ PHU		 			COVISHIELD
+	    Kumbhoj, Kolhapur, Maharashtra, 416111
+
+	2.  KUMBHOJ PHU 1				COVAXIN
+	  Kumbhoj, Kolhapur, Maharashtra, 416111
+
+416112  1. AMBAP PHC		 			COVISHIELD
+	Ambap, Kolhapur, Maharashtra, 416112
+
+	2. AMBAP PHC 1					COVAXIN
+	Ambap, Kolhapur, Maharashtra, 416112
+
+	3. AMBAP-SC					COVISHIELD
+	Ambap, Kolhapur, Maharashtra, 416112
+	
+	4. BHADOLE PHC ..					COVISHIELD
+	Bhadole, Kolhapur, Maharashtra, 416112
+
+	5. BHADOLE PHC 1					COVAXIN
+	Bhadole, Kolhapur, Maharashtra, 416112
+
+	6. BHADOLE-SC					COVISHIELD
+	Bhadole, Kolhapur, Maharashtra, 416112
+
+	7. VADGAON UHC					COVISHIELD
+	   B Y Hospital Vadgaon, Kolhapur,
+	   Maharashtra, 416112
+
+	8.  VADGAON UHC 1					COVAXIN
+	   B Y Hospital Vadgaon, Kolhapur, 
+	   Maharashtra, 416112
+
+416113  1. KODOLI SDH					COVISHIELD
+	  Sub District Hospital Kodoli, Kolhapur, 
+	  Maharashtra, 416113
+
+	2.  KODOLI SDH 1					COVAXIN
+	   Sub District Hospital Kodoli, Kolhapur,
+	    Maharashtra, 416113
+
+416114  1. SATAVE PHU					COVISHIELD
+	  Satave Primery Health Unit, Kolhapur, Maharashtra, 416114
+
+	2.  SATAVE PHU 1					COVAXIN
+	   Satave Primery Health Unit, Kolhapur, Maharashtra, 416114
+
+416115 1. GAONBHAG UHC					COVISHIELD
+	 Gaonbhag Ich, Kolhapur, Maharashtra, 416115
+
+	2. GAONBHAG UHC 1				COVAXIN
+	  Gaonbhag Ich, Kolhapur, Maharashtra, 416115
+
+	3. IGM HOSPITAL					COVISHIELD
+	  Indira Gandhi Hospital Ichalkaranji, Kolhapur, 
+	   Maharashtra, 416115
+
+	4. IGM HOSPITAL 1					COVAXIN
+	   Indira Gandhi Hospital Ichalkaranji, Kolhapur,
+	    Maharashtra, 416115
+
+	5. JAVAHARNAGAR UHC				COVISHIELD
+	    Javaharnagar Ich, Kolhapur, Maharashtra, 416115
+
+	6. JAVAHARNAGAR UHC 1				COVAXIN
+	   Javaharnagar Ich, Kolhapur, Maharashtra, 416115
+
+	7. KALAVANTGALLI UHC				COVISHIELD
+	   Kalavantgalli Ich, Kolhapur, Maharashtra, 416115
+
+	8.  KALAVANTGALLI UHC 1				COVAXIN
+	   Kalavantgalli Ich, Kolhapur, Maharashtra, 416115
+
+	9.   LALNAGAR UHC					COVISHIELD
+	  Old Nagarpalika Talim, Kolhapur,
+	    Maharashtra, 416115
+
+	10. LALNAGAR UHC 1				COVAXIN
+  	   Old Nagarpalika Talim, Kolhapur, 
+	  Maharashtra, 416115
+
+	11. SHAHAPUR UHC				COVISHIELD
+	   Shahapur Ich, Kolhapur, Maharashtra, 416115
+
+	12. SHAHAPUR UHC 1				COVAXIN
+	  Shahapur Ich, Kolhapur, Maharashtra, 416115
+
+	13. TAMBEMAL UHC				COVISHIELD
+	  Tambemal Ich, Kolhapur, Maharashtra, 416115
+
+	14. TAMBEMAL UHC 1				COVAXIN
+	  Tambemal Ich, Kolhapur, Maharashtra, 416115
+
+416116  1 .SAJANI PHC					COVISHIELD
+	  Sajani, Kolhapur, Maharashtra, 416116
+
+	2.  SAJANI PHC 1					COVAXIN
+	   Sajani, Kolhapur, Maharashtra, 416116
+
+	3.  SAJANI-SC					COVISHIELD
+	    Sajani, Kolhapur, Maharashtra, 416116  
+
+
+416117
+
+416118  	 1. NANDANI PHC					COVISHIELD
+	  Nandani PHC, Kolhapur, Maharashtra, 416108
+
+	2. NANDANI PHC 1					COVAXIN
+	    Nandani PHC, Kolhapur, Maharashtra, 416118
+
+	3.  RUKADI PHU					COVISHIELD
+	  Rukadi Primary Health Unit, Kolhapur, 
+	   Maharashtra, 416118
+
+	4. RUKADI PHU 1					COVAXIN
+	   Rukadi Primary Health Unit, Kolhapur, 
+	  Maharashtra, 416118
+
+
+416119  1. GANDHINAGAR SDH				COVISHIELD
+   	  Sub District Hospital Gandhinagar, Kolhapur,
+	  Maharashtra, 416119
+
+	2. GANDHINAGAR SDH (AGE 18 TO 44)			COVAXIN
+	  Sub District Hospital Gandhinagar, Kolhapur, 
+	   Maharashtra, 416119
+
+	3. GANDHINAGAR SDH 1				COVISHIELD
+	   Sub District Hospital Gandhinagar, Kolhapur,
+	   Maharashtra, 416119
+
+	4. MUDSHINGI PHC					COVISHIELD
+	  Mudshingi, Kolhapur, Maharashtra, 416119
+
+	5. MUDSHINGI PHC 1				COVAXIN
+	   Mudshingi, Kolhapur, Maharashtra, 416119
+
+416120  1.  PHULEWADI NO.8 UHC KMC			COVISHIELD
+	  Near Datta Mandir Phulewadi, Kolhapur,
+	  Maharashtra, 416120
+
+416121
+416122
+416123
+416124
+416125
+416126
+416127  1.PARGAON RH					COVISHIELD
+	 Rural Hospital Pargaon, Kolhapur, 
+	  Maharashtra, 416127
+
+	2. PARGAON RH 1					COVAXIN
+	   Rural Hospital Pargaon, Kolhapur, 
+	   Maharashtra, 416127 
+
+416128
+416129
+416130
+416131
+416132
+416133
+416134
+416135
+416136
+416137
+416138
+416139
+416140
+416141
+416142
+416143 	1  .ABDUL LAT PHC					COVISHIELD
+	Abdullat, Kolhapur, Maharashtra, 416143
+
+	2. ABDUL LAT PHC 1				COVAXIN
+	Abdullat, Kolhapur, Maharashtra, 416143
+
+416144
+416145
+416146
+416147
+416148
+416149
+416150
+416151
+416152
+416153
+416154
+416155
+416156
+416157
+416158
+416159
+416160
+416161
+416162
+416163
+416164
+416165
+416166
+416167
+416168
+416169
+416170
+416171
+416172
+416173
+416174
+416175
+416176
+416177
+416178
+416179
+416180
+416181
+416182
+416183
+416184
+416185
+416186
+416187
+416188
+416189
+416190
+416191
+416192
+416193
+416194
+416195
+416196
+416197
+416198
+416199
+416200
+416201  1. PANHALA RH					COVISHIELD
+	 Rural Hospital Panhala, Kolhapur,
+	  Maharashtra, 416201
+
+416202  1.  PATTAN KODOLI PHC				COVISHIELD
+	 Pkodoli, Kolhapur, Maharashtra, 416202
+
+	2.  PATTAN KODOLI PHC 1			 	COVAXIN
+	  Pkodoli, Kolhapur, Maharashtra, 416202
+
+
+416203  1. HUPARI PHC					COVISHIELD
+	  Shivaji Nagar Hupari Phc, Kolhapur
+	  Maharashtra, 416203
+
+	2. HUPARI PHC 1					COVAXIN
+	  Shivaji Nagar Hupari Phc, Kolhapur, 
+	   Maharashtra, 416203
+
+	3. HUPARI-SC					COVISHIELD
+	   Shivaji Nagar Hupari Phc, Kolhapur,
+	   Maharashtra, 416203
+
+416204  1. SANGRUL PHC					COVISHIELD
+	  Sangrul, Kolhapur, Maharashtra, 416204
+
+	  2. SANGRUL PHC 1					COVAXIN
+	    Sangrul, Kolhapur, Maharashtra, 416204
+
+	3. SANGRUL-SC					COVISHIELD
+	 Sangrul, Kolhapur, Maharashtra, 416204
+
+416205  1. BAJAR BHOGAON PHC				COVISHIELD
+	   BAJAR BHOGAON, Kolhapur, Maharashtra, 416205
+
+	2. BAJAR BHOGAON PHC 1				COVAXIN
+	      Bajar Bhogaon, Kolhapur, Maharashtra, 416205
+
+	3. BAJAR BHOGAON-SC				COVISHIELD
+	     Bajar Bhogaon, Kolhapur, Maharashtra, 416205 
+
+	4. KALE PHC 1					COVAXIN
+	  Kale Karveer, Kolhapur, Maharashtra, 416205
+
+	5. KALE PRIMARY HEALTH CENTER			COVISHIELD
+	   Kale Karveer, Kolhapur, Maharashtra, 416205
+	
+	6. KALE-SC					COVISHIELD
+	   Kale Karveer, Kolhapur, Maharashtra, 416205
+
+	7. KHUPIRE RH					COVISHIELD
+	    Khupire, Kolhapur, Maharashtra, 416205
+
+	8.  KHUPIRE RH 1					COVISHIELD
+	    Khupire, Kolhapur, Maharashtra, 416205
+
+	9. PADAL PHC					COVISHIELD
+	  PHC Padal, Kolhapur, Maharashtra, 416205
+
+	10. PADAL PHC 1					COVAXIN
+	    PHC Padal, Kolhapur, Maharashtra, 416205
+
+	11. SULE PHU					COVISHIELD
+	     At Post Sule Kale Panhala, Kolhapur
+	   Maharashtra, 416205
+
+	12.  SULE PHU 1					COVAXIN
+	    At Post Sule Kale Panhala, Kolhapur, 	
+	    Maharashtra, 416205
+
+416206  1. GAGANBAWADA RH				COVISHIELD
+	   Gaganbawada, Kolhapur, Maharashtra, 416206
+
+	2.  GAGANBAWADA RH 1				COVAXIN
+	     Gaganbawada, Kolhapur, Maharashtra, 416206
+
+	3. GARIVDE PHC					COVISHIELD
+	   Gariwade, Kolhapur, Maharashtra, 416206
+
+	4. GARIVDE PHC 1					COVAXIN
+	  Gariwade, Kolhapur, Maharashtra, 416206
+	
+	5. GARIVDE-SC					COVISHIELD
+  	  Gariwade, Kolhapur, Maharashtra, 416206
+
+	6. NIWADE PHC					COVISHIELD
+	  Niwade, Kolhapur, Maharashtra, 416206
+
+	7.  NIWADE PHC 1					COVAXIN
+	 Niwade, Kolhapur, Maharashtra, 416206
+
+	8.  NIWADE-SC					COVISHIELD
+	    Niwade, Kolhapur, Maharashtra, 416206
+
+	9. PANHALA RH 1					COVAXIN
+	   Rural Hospital Panhala, Kolhapur, 
+	   Maharashtra, 416206
+
+416207  1. ISPURLI PHC					COVISHIELD
+ 	  Ispurli, Kolhapur, Maharashtra, 416207
+
+	2. ISPURLI PHC 1					COVAXIN
+	   Ispurli, Kolhapur, Maharashtra, 416207
+
+  	3. ISPURLI-SC					COVISHIELD
+	   Ispurli, Kolhapur, Maharashtra, 416207
+
+416208  1 .AANAJE AYURVEDIK DISPENCERY 			COViSHIElD
+                        Aanaje Kolhapur Radhanagari Onrod, Kolhapur,
+	    Maharashtra, 416208
+
+	2.  THIKPURLI PHC 1				COVAXIN 
+	   Thikpurli Tal Radhanagari, Kolhapur,
+	    Maharashtra, 416208
+
+	3.  THIKPURLI PRIMARY H CENTRE			COVISHIELD
+	   Thikpurli Tal Radhanagari, Kolhapur, 
+	   Maharashtra, 416208
+
+	4. THIKPURLI-SC					COVISHIELD
+	    Thikpurli Tal Radhanagari, Kolhapur,
+	    Maharashtra, 416208
+
+	5. TURAMBE PHU					COVISHIELD
+	   At Post Turambe, Kolhapur, Maharashtra, 416208
+
+	6. TURAMBE PHU 1					COVAXIN 
+	  At Post Turambe, Kolhapur, Maharashtra, 416208
+
+416209 1. GARGOTI RH					COVISHIELD
+	  Gargoti RH, Kolhapur, Maharashtra, 416209
+
+	2. GARGOTI RH (AGE 18 TO 44)			COVAXIN
+	  Gargoti RH, Kolhapur, Maharashtra, 416209
+
+	3. KADGAON (B) PHC				COVISHIELD
+	 Patgaon Road, Kolhapur, Maharashtra, 416209
+
+ 	4  . KADGAON (B) PHC 1				COVAXIN 
+	   Patgaon Road, Kolhapur, Maharashtra, 416209
+
+	5. KADGAON (B)-SC					COVISHIELD
+	   Patgaon Road, Kolhapur, Maharashtra, 416209
+
+	6.  MADILGE PHC					COVISHIELD
+	   Madilge, Kolhapur, Maharashtra, 416209
+
+	7.  MADILGE PHC 1					COVAXIN
+	   Madilge, Kolhapur, Maharashtra, 416209
+
+	8. MADILGE-SC					COVISHIELD
+	   Madilge, Kolhapur, Maharashtra, 416209
+
+	9. MINCHE PHC					COVISHIELD
+	   Minche, Kolhapur, Maharashtra, 416209
+
+	10. MINCHE PHC 1					COVAXIN
+	   Minche, Kolhapur, Maharashtra, 416209
+
+	11 . PATGAON PHC					COVISHIELD
+	   Patgaon, Kolhapur, Maharashtra, 416209
+
+	12.  PATGAON PHC 1				COVAXIN
+	    Patgaon, Kolhapur, Maharashtra, 416209
+
+	13. PATGAON-SC					COVISHIELD
+	   Patgaon, Kolhapur, Maharashtra, 416209
+
+	14. PIMPALGAON (BHUDARGAD) PHC 1			COVISHIELD
+	   Pimpalgaon, Kolhapur, Maharashtra, 416209
+
+416210
+416211  1.  DHAMOD PHC					COVISHIELD
+	   Dhamod, Kolhapur, Maharashtra, 416211
+
+	2. DHAMOD PHC 1					COVAXIN
+	    Dhamod, Kolhapur, Maharashtra, 416211
+	
+	3. DHAMOD-SC					COVISHIELD
+	    Dhamod, Kolhapur, Maharashtra, 416211
+
+	4. MHASURLI AYURVEDIK DISPEN 1			COVISHIELD
+	  Mhasurli, Kolhapur, Maharashtra, 416211
+
+	5.  MHASURLI AYURVEDIK DISPENCERY			COVAXIN
+	  Mhasurli, Kolhapur, Maharashtra, 416211
+
+	6 . SOLANKUR RH					COVISHIELD
+	  Solankur RH Tal Radhanagari, Kolhapur, 
+	   Maharashtra, 416211
+
+	7. SOLANKUR RH 1					COVAXIN
+	   Solankur RH Tal Radhanagari, Kolhapur, 
+	  Maharashtra, 416211
+
+	8. TARALE PHC					COVISHIELD
+	  Tarale, Kolhapur, Maharashtra, 416211
+
+	9. TARALE PHC 1					COVAXIN
+	  Tarale, Kolhapur, Maharashtra, 416211
+
+416212   1. RADHANAGARI RH				COVISHIELD
+	 Rural Hospital Radhanagari, Kolhapur,
+	   Maharashtra, 416212
+
+	2.  RADHANAGARI RH 1				COVAXIN
+	   Rural Hospital Radhanagari, Kolhapur,
+	    Maharashtra, 416212
+
+	3.  RASHIWADE PHC				COVISHIELD
+	  Rashiwade BK., Kolhapur, Maharashtra, 416212
+
+	4.  RASHIWADE PHC 1				COVAXIN
+	  Rashiwade BK., Kolhapur, Maharashtra, 416212 
+
+	5. SARAWADE PHC					COViSHIElD
+	  Sarawade, Kolhapur, Maharashtra, 416212
+
+	6. SARAWADE PHC 1				COVAXIN
+	   Sarawade, Kolhapur, Maharashtra, 416212
+
+	7.  SARAWADE-SC					COViSHIElD
+	   Sarawade, Kolhapur, Maharashtra, 416212
+
+
+416213   1. AMBA PHC 					COViSHIElD
+	   Amba SHAHUWADI, Kolhapur, Maharashtra, 416213
+
+	2. AMBA PHC 1					COVAXIN
+	    Amba SHAHUWADI, Kolhapur, Maharashtra, 416213
+
+	3. AMBA-SC					COViSHIElD
+	   Amba Shahuwadi, Kolhapur, Maharashtra, 416213
+
+	4. BORPADALE PHC					COVISHIELD			
+	    PHC Borpadale, Kolhapur, Maharashtra, 416213
+	
+	5. BORPADALE PHC 1				COVAXIN
+	    PHC Borpadale, Kolhapur, Maharashtra, 416213
+
+	6. BORPADALE-SC					COVISHIELD
+	    PHC Borpadale, Kolhapur, Maharashtra, 416213
+
+	7. SHITTUR PHC					COVISHIELD
+	  Shittur, Kolhapur, Maharashtra, 416213
+
+	8. SHITTUR PHC 1					COVAXIN
+	  Shittur, Kolhapur, Maharashtra, 416213
+
+416214  1. BAMBAWADE PHC				COVISHIELD
+	   Bambawade, Kolhapur, Maharashtra, 416214
+
+	2. BAMBAWADE PHC 1				COVAXIN
+	   Bambawade, Kolhapur, Maharashtra, 416214
+
+	3. BAMBAWADE-SC					COVISHIELD
+	    Bambawade, Kolhapur, Maharashtra, 416214
+
+	4. BHEDASGAON PHC				COVISHIELD
+	   Near ST Bus Stop, Kolhapur, Maharashtra, 416214
+
+	5. BHEDASGAON PHC (AGE 18 TO 44 )			COVAXIN
+	   Bhedasgaon, Kolhapur, Maharashtra, 416214
+
+	6. BHEDASGAON PHC 1				COVAXIN
+	 Near ST Bus Stop, Kolhapur, Maharashtra, 416214
+
+	7. BHEDASGAON-SC					COVISHIELD
+	   Near ST Bus Stop, Kolhapur, Maharashtra, 416214
+
+	8. SARUD PHC					COVISHIELD
+	   Sarud, Kolhapur, Maharashtra, 416214
+
+	9. SARUD PHC 1					COVAXIN
+	   Sarud, Kolhapur, Maharashtra, 416214
+
+416215
+416216  1. KAGAL RH					COVISHIELD
+	   Rural Hospital Kagal, Kolhapur, Maharashtra, 416216
+
+	2. KAGAL RH (AGE 18 TO 44 YEARS)			COVAXIN
+	  Rural Hospital Kagal, Kolhapur, Maharashtra, 416216
+
+	3.  KAGAL RH 1					COVAXIN
+	    Rural Hospital Kagal, Kolhapur, Maharashtra, 416216
+
+	4. KAGAL ZP DISPENSARY HC				COVISHIELD
+	    Kagal ZP Dispensary, Kolhapur, Maharashtra, 416216
+
+	5.  KAGAL ZP DISPENSARY HC 1			COVAXIN
+	    Kagal ZP Dispensary, Kolhapur, Maharashtra, 416216
+
+	6. SIDHNERLI PHC					COVISHIELD
+	   Phc Sindhnerli, Kolhapur, Maharashtra, 416216
+
+	  7. SIDHNERLI PHC 1				COVAXIN
+	     Phc Sindhnerli, Kolhapur, Maharashtra, 416216
+
+	  8. SIDHNERLI-SC					COVISHIELD
+	     Phc Sindhnerli, Kolhapur, Maharashtra, 416216
+
+416217  1.  KASBA SANGAON PHC				COVISHIELD
+	    Kasba Sangaon, Kolhapur, Maharashtra, 416217
+
+	2. KASBA SANGAON PHC 1				COVAXIN
+  	  Kasba Sangaon, Kolhapur, Maharashtra, 416217
+
+	3. KASBA SANGAON-SC				COVISHIELD
+ 	   Kasba Sangaon, Kolhapur, Maharashtra, 416217 
+
+416218
+416219   1. MURGUD RH					COVISHIELD
+	  Murgud RH, Kolhapur, Maharashtra, 416219
+
+	2. MURGUD RH 1					COVAXIN
+	   Murgud RH, Kolhapur, Maharashtra, 416219
+
+416220
+416221  1. WALVA PHC					COVISHIELD
+	  Walwa PHC, Kolhapur, Maharashtra, 416221
+
+	2. WALVA PHC 1					COVAXIN
+	  Walwa PHC, Kolhapur, Maharashtra, 416221
+
+416222
+416223 1. GARGOTI RH 1					COVAXIN
+	 Gargoti RH, Kolhapur, Maharashtra, 416223
+
+416224
+416225
+416226
+416227
+416228
+416229  1. BHUYE PHC					COVISHIELD
+	   Bhuye, Kolhapur, Maharashtra, 416229
+
+	2 .BHUYE PHC 1					COVAXIN
+ 	  Bhuye, Kolhapur, Maharashtra, 416229
+
+	3. BHUYE-SC					COVISHIELD
+	   Bhuye, Kolhapur, Maharashtra, 416229
+
+	4. KEKHALE PHC					COVISHIELD
+	   Kekhale, Kolhapur, Maharashtra, 416229
+
+	5. KEKHALE PHC 1					COVAXIN
+	    Kekhale, Kolhapur, Maharashtra, 416229
+
+	6.  KEKHALE-SC					COVISHIELD
+	   Kekhale, Kolhapur, Maharashtra, 416229
+
+	7. PORALE PHC					COVISHIELD
+	  At Post Porale, Kolhapur, Maharashtra, 416229
+
+	8. PORALE PHC 1					COVAXIN
+	   At Post Porale, Kolhapur, Maharashtra, 416229
+
+	9. VADANGE PHC 1					COVAXIN
+	   Primary Health Centre Wadange, Kolhapur, 
+	   Maharashtra, 416229
+
+	10.  VADANGE PRIMARY HEALTH CENTRE		COVISHIELD
+	   Primary Health Centre Wadange, Kolhapur, 
+	   Maharashtra, 416229
+
+	11. VADANGE-SC					COVISHIELD
+	    Primary Health Centre Wadange, Kolhapur,
+	    Maharashtra, 416229
+
+	12. WADI RATNAGIRI PHU				COVISHIELD
+	   Wadi Ratnagiri, Kolhapur, Maharashtra, 416229
+
+	13.  WADI RATNAGIRI PHU 1				COVAXIN
+	    Wadi Ratnagiri, Kolhapur, Maharashtra, 416229
+
+416230 1.  KARANJPHEN PHC				COVISHIELD
+	  Karanjphen, Kolhapur, Maharashtra, 416230
+
+	2. KARANJPHEN PHC 1				COVAXIN
+	   Karanjphen, Kolhapur, Maharashtra, 416230
+
+	3. KARANJPHEN-SC					COVISHIELD
+	    Karanjphen, Kolhapur, Maharashtra, 416230
+
+	4. KOTOLI PHC					COVISHIELD
+	   Kotoli, Kolhapur, Maharashtra, 416230
+
+	5. KOTOLI PHC 1					COVAXIN
+	   Kotoli, Kolhapur, Maharashtra, 416230
+
+	6.  KOTOLI-SC					COVISHIELD
+	   Kotoli, Kolhapur, Maharashtra, 416230
+
+	7. NANDGAON PHU					COVISHIELD
+	   Nandgaon, Kolhapur, Maharashtra, 416230
+
+	8. NANDGAON PHU 1				COVAXIN
+	  Nandgaon, Kolhapur, Maharashtra, 416230
+
+416231
+416232
+416233
+416234  1. KANERI PHC					COVISHIELD
+	   Kaneri, Kolhapur, Maharashtra, 416234
+
+	2. KANERI PHC 1					COVAXIN
+	  Kaneri, Kolhapur, Maharashtra, 416234
+
+	3. KANERI-SC					COVAXIN
+	   Kaneri, Kolhapur, Maharashtra, 416234 
+
+416235  1. KAPSHI PHC					COVISHIELD
+	  Kapshi, Kolhapur, Maharashtra, 416235
+
+	2. KAPSHI PHC 1					COVAXIN
+	  Kapshi, Kolhapur, Maharashtra, 416235
+
+	3.  KAPSHI-SC					COVISHIELD
+	  Kapshi, Kolhapur, Maharashtra, 41623
+
+	4. PIMPALGAON (KAGAL) PHC			COVISHIELD
+	  Pimpalgaon Bk, Kolhapur, Maharashtra, 416235
+
+	5. PIMPALGAON (KAGAL) PHC 1			COVAXIN
+	  Pimpalgaon Bk, Kolhapur, Maharashtra, 416235
+
+	6.  PIMPALGAON (KAGAL)-SC				COVISHIELD
+	 Pimpalgaon Bk, Kolhapur, Maharashtra, 416235
+
+416236
+416237
+416238
+416239
+416240
+416241
+416242
+416243
+416244
+416245
+416246
+416247
+416248
+416249
+416250
+416251
+416252
+416253
+416254
+416255
+416256
+416257
+416258
+416259
+416260
+416261
+416262
+416263
+416264
+416265
+416266
+416267
+416268
+416269
+416270
+416271
+416272
+416273
+416274
+416275
+416276
+416277
+416278
+416279
+416280
+416281
+416282
+416283
+416284
+416285
+416286
+416287
+416288
+416289
+416290
+416291
+416292
+416293
+416294
+416295
+416296
+416297
+416298
+416299
+416300
+416301
+416302
+416303
+416304
+416305
+416306
+416307
+416308
+416309
+416310
+416311
+416312
+416313
+416314
+416315
+416316
+416317
+416318
+416319
+416320
+416321
+416322
+416323
+416324
+416325
+416326
+416327
+416328
+416329
+416330
+416331
+416332
+416333
+416334	1. CHIKHALI PHC 1 				COVAXIN
+	    Chikhali, Kolhapur, Maharashtra, 416234
+
+	2. CHIKHALI PRIMARY HEALTH CENTRE		COVISHIELD
+ 	   Chikhali, Kolhapur, Maharashtra, 416234
+
+	3. CHIKHALI-SC				COVISHIELD
+	   Chikhali, Kolhapur, Maharashtra, 416234
+
+
+416335
+416336
+416337
+416338
+416339
+416340
+416341
+416342
+416343
+416344
+416345
+416346
+416347
+416348
+416349
+416350
+416351
+416352
+416353
+416354
+416355
+416356
+416357
+416358
+416359
+416360
+416361
+416362
+416363
+416364
+416365
+416366
+416367
+416368
+416369
+416370
+416371
+416372
+416373
+416374
+416375
+416376
+416377
+416378
+416379
+416380
+416381
+416382
+416383
+416384
+416385
+416386
+416387
+416388
+416389
+416390
+416391
+416392
+416393
+416394
+416395
+416396
+416397
+416398
+416399
+416400
+416401
+416402
+416403
+416404
+416405
+416406
+416407
+416408
+416409
+416410
+416411
+416412
+416413
+416414
+416415
+416416
+416417
+416418
+416419
+416420
+416421
+416422
+416423
+416424
+416425
+416426
+416427
+416428
+416429
+416430
+416431
+416432
+416433
+416434
+416435
+416436
+416437
+416438
+416439
+416440
+416441
+416442
+416443
+416444
+416445
+416446
+416447
+416448
+416449
+416450
+416451
+416452
+416453
+416454
+416455
+416456
+416457
+416458
+416459
+416460
+416461
+416462
+416463
+416464
+416465
+416466
+416467
+416468
+416469
+416470
+416471
+416472
+416473
+416474
+416475
+416476
+416477
+416478
+416479
+416480
+416481
+416482
+416483
+416484
+416485
+416486
+416487
+416488
+416489
+416490
+416491
+416492
+416493
+416494
+416495
+416496
+416497
+416498
+416499
+416500
+416501
+416502	1. CHANNEKUPPI PHU				COVISHIELD
+	   Chanekuppi, Kolhapur, Maharashtra, 416502
+
+	2. CHANNEKUPPI PHU 1				COVAXIN
+	   Chanekuppi, Kolhapur, Maharashtra, 416502
+
+	3. GADHINGLAJ SDH				COVISHIELD
+	   Gadhinglaj SDH, Kolhapur, Maharashtra, 416502
+
+	4. GADHINGLAJ SDH (AGE 18 TO 45)			COVAXIN
+	   Gadhinglaj SDH, Kolhapur, Maharashtra, 416502
+
+	5. GADHINGLAJ SDH 1				COVAXIN
+	   Gadhinglaj SDH, Kolhapur, Maharashtra, 416502
+
+	6. HALKARNI PHC					COVISHIELD
+	   Halkarni, Kolhapur, Maharashtra, 416502
+
+	7. HALKARNI PHC 1					COVAXIN
+	   Halkarni, Kolhapur, Maharashtra, 416502
+
+	8. HALKARNI-SC					COVISHIELD
+	   Halkarni, Kolhapur, Maharashtra, 416502
+
+	9.KADGAON (G) PHC				COVISHIELD
+	  Kadgaon Gadhinglaj, Kolhapur, Maharashtra, 416502
+
+	10. KADGAON (G) PHC 1				COVAXIN
+	  Kadgaon Gadhinglaj, Kolhapur, Maharashtra, 416502
+
+	11. KADGAON (G)-SC				COVISHIELD
+	   Kadgaon Gadhinglaj, Kolhapur, Maharashtra, 416502
+
+	12. MUNGURWADI PHC				COVISHIELD
+	   Mungurwadi, Kolhapur, Maharashtra, 416502
+
+	 13. MUNGURWADI PHC 1				COVAXIN
+	   Mungurwadi, Kolhapur, Maharashtra, 416502
+
+	14. MUNGURWADI-SC				COVISHIELD
+	   Mungurwadi, Kolhapur, Maharashtra, 416502
+
+	15. NOOL PHC					COVISHIELD
+	   At Post Nool, Kolhapur, Maharashtra, 416502
+
+	 16. NOOL PHC 1					COVAXIN
+	      At Post Nool, Kolhapur, Maharashtra, 416502
+
+416503  1.  MAHAGAON PHC					COVISHIELD
+	   Mahagaon, Kolhapur, Maharashtra, 416503
+
+	2. MAHAGAON PHC 1				COVAXIN
+	   Mahagaon, Kolhapur, Maharashtra, 416503
+	
+	3.  MAHAGAON-SC					COVISHIELD
+	   Mahagaon, Kolhapur, Maharashtra, 416503
+
+416504  1. KANADEWADI PHC				COVISHIELD
+	  Nesari, Kolhapur, Maharashtra, 416504
+	
+	2. KANADEWADI PHC 1				COVAXIN
+	   Nesari, Kolhapur, Maharashtra, 416504
+
+	3. NESARI RH					COVISHIELD
+	  Nesari, Kolhapur, Maharashtra, 416504
+
+	4. NESARI RH 1					COVAXIN
+	  Nesari, Kolhapur, Maharashtra, 416504
+
+416505  1. AJARA RH					COVISHIELD
+	  Rural Hospital Ajara, Kolhapur, Maharashtra, 416505
+
+	2. AJARA RH 1					COVAXIN
+	  Rural Hospital Aj, Kolhapur, Maharashtra, 416505
+
+	3. BHADWAN PHC					COVISHIELD
+	   Bhadwan, Kolhapur, Maharashtra, 416505
+
+	4. BHADWAN PHC 1					COVAXIN
+	  Bhadwan, Kolhapur, Maharashtra, 416505
+
+	5. BHADWAN-SC					COVISHIELD
+	 Bhadwan, Kolhapur, Maharashtra, 416505
+
+	6. HERLE PHC					COVISHIELD
+	  Herle, Kolhapur, Maharashtra, 416005
+
+ 	7. HERLE PHC 1					COVAXIN
+  	  Herle, Kolhapur, Maharashtra, 416005
+
+	8. HERLE-SC					COVISHIELD
+	  Herle, Kolhapur, Maharashtra, 416005
+
+	9. MALIGRE PHC					COVISHIELD
+	   Maligre, Kolhapur, Maharashtra, 416505
+
+	10. MALIGRE PHC 1					COVAXIN
+	   Maligre, Kolhapur, Maharashtra, 416505
+
+	11.  MALIGRE-SC					COVISHIELD
+	  Maligre, Kolhapur, Maharashtra, 416505
+
+	12. UTTUR PHC					COVISHIELD
+	    Uttur, Kolhapur, Maharashtra, 416505
+
+	13.  UTTUR PHC 1					COVAXIN
+	    Uttur, Kolhapur, Maharashtra, 416505
+
+	14. WATANGI PHC					COVISHIELD
+	   Watangi, Kolhapur, Maharashtra, 416505
+
+
+	15. WATANGI PHC 1				COVAXIN
+	    Watangi, Kolhapur, Maharashtra, 416505
+
+416506
+416507  1. KANUR PHC					COVISHIELD
+	  Kanurk.H., Kolhapur, Maharashtra, 416507
+
+	2. KANUR PHC 1					COVAXIN
+	  Kanurk.H., Kolhapur, Maharashtra, 416507
+
+	3. KANUR-SC					COVISHIELD
+	  Kanurk.H., Kolhapur, Maharashtra, 416507
+
+	4.  MANGAON PHC					COVISHIELD
+	   Mangaon, Kolhapur, Maharashtra, 416507
+
+	5. MANGAON PHC 1					COVAXIN
+	  Mangaon, Kolhapur, Maharashtra, 416507
+
+	6. TUDIYE PHC					COVISHIELD
+	  At Post Tudiye, Kolhapur, Maharashtra, 416507
+
+	7.  TUDIYE PHC 1					COVAXIN
+	  At Post Tudiye, Kolhapur, Maharashtra, 416507
+
+	8.  TUDIYE-SC					COVISHIELD
+	   At Post Tudiye, Kolhapur, Maharashtra, 416507
+
+416508  1. KOWAD PHC					COVISHIELD
+	   Kowad, Kolhapur, Maharashtra, 416508
+
+ 	2. KOWAD PHC 1					COVAXIN
+	    Kowad, Kolhapur, Maharashtra, 416508
+
+	3.  KOWAD-SC					COVISHIELD
+	   Kowad, Kolhapur, Maharashtra, 416508
+
+416509  1.ADKUR PHC					COVISHIELD
+	  Adkur, Kolhapur, Maharashtra, 416509
+
+	2. ADKUR PHC 1					COVAXIN
+	  Adkur, Kolhapur, Maharashtra, 416509
+
+	3. ADKUR-SC					COVISHIELD
+	   Adkur, Kolhapur, Maharashtra, 416509 
+
+	4. CHANDGAD RH					COVISHIELD
+ 	   Chandgad Rural Hopital, Kolhapur, 
+	    Maharashtra, 416509
+
+	5. CHANDGAD RH 1					COVAXIN
+	   Chandgad Rural Hopital, Kolhapur, 
+	    Maharashtra, 416509
+
+	6. HERE PHC 1					COVAXIN
+	  Here Tal Chandgad Dist Kolhapur, Kolhapur
+	    , Maharashtra, 416509
+
+	7. HERE PRIMARY HEALTH CENTER			COVISHIELD
+	  Here Tal Chandgad Dist Kolhapur, Kolhapur,
+ 	     Maharashtra, 416509
+
+	8. HERE-SC					COVISHIELD
+	   Here Tal Chandgad Dist Kolhapur, Kolhapur, 
+  	   Maharashtra, 416509
+
+	9. HERLE PHC					COVISHIELD
+	  Herle, Kolhapur, Maharashtra, 416005
+
+416510
+416511
+416512
+416513
+
+
